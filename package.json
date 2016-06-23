@@ -1,0 +1,25 @@
+{
+  "name": "slack_message_button_test",
+  "version": "1.0.0",
+  "description": "slack message button test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henteko/slack_message_button_test.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "henteko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henteko/slack_message_button_test/issues"
+  },
+  "homepage": "https://github.com/henteko/slack_message_button_test#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
